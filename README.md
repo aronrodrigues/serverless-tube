@@ -20,9 +20,9 @@ sls-lambda-execution-role
   AmazonElasticTranscoderJobsSubmitter
   AWSLambdaBasicExecutionRole
 
-
 Auth0
 ------
   aronrodrigues@megacondo.com.br
   domain cloudguru-sls-lab.auth0.com
   clientId qsZ2DL9JD6rAzoTC7beGKzGsPsaCCtLO
+  secret PwFKXPz9mwbliZjU_rOQLsCt3pCh4DCAm9K6iQwuxGPwBcHWCWz07Gg4cZQxBIv8
